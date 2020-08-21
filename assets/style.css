@@ -1,0 +1,68 @@
+*{
+  margin:0;
+  
+}
+.container{
+  
+  font-family: 'Kanit', sans-serif;
+  margin: 0 auto ;
+  background: rgb(224, 200, 200);
+  width: 90%;
+  height: 900px;
+}
+.menubar{
+  margin: 0  auto;
+  background: rgb(255, 255, 255);
+  width: 100%;
+  height: 80px;
+  box-shadow: 0 0 10px rgb(175, 173, 173);
+  position: fixed;
+}
+
+.logo h1{
+  font-family: 'Kanit', sans-serif;
+  font-size: 25px;
+}
+.logo{
+  padding-top: 10px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: bold;
+}
+.footer{
+  background: rgb(255, 255, 255);
+  box-shadow: 0 0 10px rgb(175, 173, 173);
+  width: 100%;
+  height: 50px;
+
+}
+.menu ul{
+  float: right;
+}
+.menu li{
+  float: left;
+  list-style-type:none;
+  padding-right:20px;
+}
+.confix{
+  clear: both;
+}
+.footer_bar{
+  background: rgb(255, 255, 255);
+  box-shadow: 0 0 10px rgb(175, 173, 173);
+  width: 100%;
+  height: 50px;
+  padding-top: 15px;
+  font-family: 'Kanit', sans-serif;
+  text-align: center;
+}
+.section{
+  margin-top: 90px;
+}
+.header{
+  margin-top: 90px;
+  font-family: 'Kanit', sans-serif;
+  background: #eecfcf;
+  width: 960px;
+  margin: 0 auto;
+  height: 800px;
+}
